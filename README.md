@@ -28,4 +28,4 @@ https://github.com/Zetciak
 
 ## Screenshots
 
-![ss](https://i.imgur.com/Zgn9x1S.jpg)
+![ss](https://i.imgur.com/NTRfqTt.jpg)
