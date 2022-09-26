@@ -40,6 +40,7 @@ function NavBar(props) {
 		} else if (type === 'disconnectWallet') {
 			props.disconnectWallet();
 		}
+		setShowWalletConnect(false);
 	}
 
 	// >> Web3
